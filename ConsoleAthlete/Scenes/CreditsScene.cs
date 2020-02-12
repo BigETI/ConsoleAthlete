@@ -1,6 +1,4 @@
-﻿using ConsoleGameEngine;
-using FastConsoleUI;
-using System;
+﻿using System;
 
 /// <summary>
 /// Console Athlete scenes namespace
